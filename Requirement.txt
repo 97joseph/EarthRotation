@@ -1,0 +1,3 @@
+Write a computer program to model the motion of Mars around the Sun. Use the known period of Mars's orbit to determine an initial approximate velocity. Display a trail so you see the shape of the orbit. 
+Create spheres representing Mars and the Sun. consider the orbital period T=687*24*3600 #s. Calculate the initial momentum of Mars, consider the speed =2*pi*R/T. Initiate a while loop with rate (500). Calculate, and update the force, momenta, and the positions Note: Mars (Mass= 0.642e24 kg, R= 2.288e11 # Orbital radius in m (assuming a circular orbit), radius= 0.05*R), G= 6.67e-11) 
+Sun (Mass= 2e30 kg, radius= 0.05*R) 
